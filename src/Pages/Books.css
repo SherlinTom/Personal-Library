@@ -1,0 +1,25 @@
+.card-image {
+    height: 200px;
+}
+
+.card-image img {
+     object-fit:scale-down;
+     width: 100% ;
+     height: 100%;
+     padding-top:10px;
+     
+}
+
+.favourite-icon {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-90%,-5%);
+}
+
+.pdf-icon {
+    position: absolute;
+    top: 5%;
+    left: 15%;
+    transform: translate(-90%,-5%);
+}
